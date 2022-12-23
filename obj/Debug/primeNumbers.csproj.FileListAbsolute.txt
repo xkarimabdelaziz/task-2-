@@ -1,0 +1,8 @@
+E:\Collage\Programing\college\primeNumbers\primeNumbers\bin\Debug\primeNumbers.exe.config
+E:\Collage\Programing\college\primeNumbers\primeNumbers\bin\Debug\primeNumbers.exe
+E:\Collage\Programing\college\primeNumbers\primeNumbers\bin\Debug\primeNumbers.pdb
+E:\Collage\Programing\college\primeNumbers\primeNumbers\obj\Debug\primeNumbers.csproj.AssemblyReference.cache
+E:\Collage\Programing\college\primeNumbers\primeNumbers\obj\Debug\primeNumbers.csproj.SuggestedBindingRedirects.cache
+E:\Collage\Programing\college\primeNumbers\primeNumbers\obj\Debug\primeNumbers.csproj.CoreCompileInputs.cache
+E:\Collage\Programing\college\primeNumbers\primeNumbers\obj\Debug\primeNumbers.exe
+E:\Collage\Programing\college\primeNumbers\primeNumbers\obj\Debug\primeNumbers.pdb
